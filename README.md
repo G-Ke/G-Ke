@@ -2,4 +2,4 @@
 
 # What's the craic? I'm George. 👋🏻
 
-[![Some things that interest me](https://skillicons.dev/icons?i=aws,gcp,django,docker,fastapi,linux,postman,py,tailwind,vscode&perline=5)](https://skillicons.dev)
+[![Some things that interest me](https://skillicons.dev/icons?i=aws,gcp,django,docker,fastapi,linux,postman,py,tailwind,vscode&perline=10)](https://skillicons.dev)
