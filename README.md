@@ -8,4 +8,4 @@ When people have problems, I view it as an opportunity to learn and grow persona
 
 ## Some of the things I use and enjoy
 
-[![Some tools I use in my projects or professional work.](https://skillicons.dev/icons?i=aws,gcp,linux,bash,css,html,js,ts,py,django,fastapi,docker,postman,tailwind,vscode,sqlite,svelte,nix,regex,terraform,vue,vscode&perline=12)](https://skillicons.dev)
+[![Some tools I use in my projects or professional work.](https://skillicons.dev/icons?i=aws,gcp,linux,bash,css,html,js,ts,py,django,fastapi,docker,postman,tailwind,vscode,sqlite,svelte,nix,regex,terraform,vue,vscode&perline=13)](https://skillicons.dev)
