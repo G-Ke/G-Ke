@@ -1,4 +1,4 @@
-# What's the craic? I'm George. 👋🏻
+# Hey there, I'm George.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=G-Ke&color=2fa87c&style=for-the-badge)
 
